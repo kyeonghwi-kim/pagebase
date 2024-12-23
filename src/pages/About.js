@@ -4,7 +4,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-           <h1>About페이지입니다.</h1>
+           <h1>Aboutt페이지입니다.</h1>
         </div>
           );
       };
